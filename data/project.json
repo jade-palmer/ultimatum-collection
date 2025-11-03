@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "jade-palmer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192922080?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "jade-palmer",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-11-03T19:47:16.137Z",
-    "updated_at": "2025-11-03T19:47:16.137Z"
-  }
+    "updated_at": "2025-11-03T19:47:16.137Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "1b4c6f61-b847-445f-8413-553746016432": {
+      "content": [],
+      "created_at": "2025-11-03T19:47:16.157Z",
+      "created_by": "jade-palmer",
+      "title": "Ultimatum Collection ",
+      "updated_at": "2025-11-03T19:47:16.157Z",
+      "updated_by": "jade-palmer",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "1b4c6f61-b847-445f-8413-553746016432"
+  ]
 }
